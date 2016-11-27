@@ -1,7 +1,7 @@
 
 /*This code must be compiled in the Arduino IDE, available here. https://www.arduino.cc/en/Main/Software */
 
-#include <NewPing.h>/*This library is neccessary for the distance sensor to function. It is on our github*/
+#include <NewPing.h>/*This library is neccessary for the distance sensor to function. https://bitbucket.org/teckel12/arduino-new-ping/downloads*/
 
 #define TRIGGER_PIN  14
 #define ECHO_PIN     15
